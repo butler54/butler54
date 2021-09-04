@@ -7,7 +7,7 @@ If those solutions have an element of supporting good governance even better!
 I'm currently working on [compliance-trestle](https://github.com/IBM/compliance-trestle) together with a small team.
 If you are interested in trestle [reach out](https://github.com/IBM/compliance-trestle/issues/new/choose).
 
-Otherwise find me professionally on [linkedin](<>) or personally (however infrequently) [here](https://chrisbutlerphotos.com/)/
+Otherwise find me professionally on [linkedin](<>) or personally (however infrequently) [here](https://chrisbutlerphotos.com/).
 
 <!--
 **butler54/butler54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
