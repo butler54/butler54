@@ -1,12 +1,13 @@
 ### Hi there!
 
-I'm a applied researcher who stumbled into the world of development via MATLAB and Fortran.
+I'm Head of Platforms for [AUCloud](https://australiacloud.com.au).
+
+
+My backgroun is as an applied researcher who stumbled into the world of development via MATLAB and Fortran.
 I have a masochistic streak which draws me to problems where business/mission complexity requires innovative solutions.
 If those solutions have an element of supporting good governance even better!
 
-I'm currently working on [compliance-trestle](https://github.com/IBM/compliance-trestle) together with a small team.
-If you are interested in trestle [reach out](https://github.com/IBM/compliance-trestle/issues/new/choose).
-
+In my open source life I work on [compliance-trestle](https://github.com/IBM/compliance-trestle).
 Otherwise find me professionally on [linkedin](https://www.linkedin.com/in/christopherjbutler/) or personally (however infrequently) [here](https://chrisbutlerphotos.com/).
 
 <!--
