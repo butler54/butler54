@@ -1,14 +1,16 @@
 ### Hi there!
 
-I'm Head of Platforms for [AUCloud](https://australiacloud.com.au).
+I'm National Manager IT Strategy & Productisation [AUCloud](https://australiacloud.com.au).
 
 
-My backgroun is as an applied researcher who stumbled into the world of development via MATLAB and Fortran.
+My background is as an applied researcher who stumbled into the world of software  via MATLAB and Fortran.
 I have a masochistic streak which draws me to problems where business/mission complexity requires innovative solutions.
 If those solutions have an element of supporting good governance even better!
 
+Today my primary focus is on building and improving the service portfolio (e.g. PaaS and SaaS services) at AUCloud.
+
 In my open source life I work on [compliance-trestle](https://github.com/IBM/compliance-trestle).
-Otherwise find me professionally on [linkedin](https://www.linkedin.com/in/christopherjbutler/) or personally (however infrequently) [here](https://chrisbutlerphotos.com/).
+Otherwise find me professionally on [linkedin](https://www.linkedin.com/in/christopherjbutler/).
 
 <!--
 **butler54/butler54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
