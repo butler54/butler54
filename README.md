@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm National Manager IT Strategy & Productisation [AUCloud](https://australiacloud.com.au).
+I'm National Manager IT Strategy & Productisation [AUCloud](https://docs.australiacloud.com.au).
 
 
 
@@ -10,11 +10,11 @@ If those solutions have an element of supporting good governance even better!
 
 Today my primary focus is on building and improving the service portfolio (e.g. PaaS and SaaS services) at AUCloud.
 
-In my open source life I work on [compliance-trestle](https://github.com/IBM/compliance-trestle).
+
 Otherwise find me professionally on [linkedin](https://www.linkedin.com/in/christopherjbutler/).
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=butler54&count_private=true)
+
 <!--
 **butler54/butler54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
