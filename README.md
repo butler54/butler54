@@ -1,6 +1,7 @@
 ### Hi there!
 
-I'm National Manager IT Strategy & Productisation [AUCloud](https://docs.australiacloud.com.au).
+I'm a Chief Archtect at [Red Hat](https://redhat.com) working in the Asia Pacific CTO Office.
+
 
 
 
@@ -8,10 +9,14 @@ My background is as an applied researcher who stumbled into the world of softwar
 I have a masochistic streak which draws me to problems where business/mission complexity requires innovative solutions.
 If those solutions have an element of supporting good governance even better!
 
-Today my primary focus is on building and improving the service portfolio (e.g. PaaS and SaaS services) at AUCloud.
+Today I'm refining my mission at Red Hat. Interesting things I've been working on so far include:
 
+- GPUaaS infrastructures with partners
+- Digital Sovereignity including modern cloud infrastructure patterns
+- Enabling AI stacks in a variety of circumstances.
+- Security and Compliance in the complexity of the environments above.
 
-Otherwise find me professionally on [linkedin](https://www.linkedin.com/in/christopherjbutler/).
+If any of this sounds interesting please reach out via [LinkedIn](https://www.linkedin.com/in/christopherjbutler/).
 
 
 
