@@ -16,7 +16,7 @@ Today I'm refining my mission at Red Hat. Interesting things I've been working o
 - Enabling AI stacks in a variety of circumstances.
 - Security and Compliance in the complexity of the environments above.
 
-If any of this sounds interesting please reach out via [LinkedIn](https://www.linkedin.com/in/christopherjbutler/).
+If any of this sounds interesting please checkout my [blog](https://chris.thebutlers.me/blog/) or reach out via [LinkedIn](https://www.linkedin.com/in/christopherjbutler/).
 
 
 
